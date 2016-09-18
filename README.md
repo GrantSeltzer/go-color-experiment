@@ -1,1 +1,1 @@
-# python-color-experiment
+# go-color-experiment
